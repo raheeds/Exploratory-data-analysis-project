@@ -11,26 +11,26 @@ Performance of the student is the consider as the bench mark for the students ac
 4.Make the conclusions of dataset.                                                                                                                                 
 
 # objective
-In this project,'we will try to give answers to a set of questions that may be relevant when analyzing examination data:
-how the students are attatched to the score data?
-What are the mean values of numerical features among the scores?
-how the parents qualification is attatched to the students score?
-what is the realtionship between eating food to the score of the student?
-How ethanicity affect the performance of the student?
-check the possibilty of any more attribute we can add?
-In addition, we will make a visual analysis in order to plan marketing banking campaigns more effectively.
+In this project,'we will try to give answers to a set of questions that may be relevant when analyzing examination data:                                           
+how the students are attatched to the score data?                                                                                                                 
+What are the mean values of numerical features among the scores?                                                                                                   
+how the parents qualification is attatched to the students score?                                                                                                 
+what is the realtionship between eating food to the score of the student?                                                                                         
+How ethanicity affect the performance of the student?                                                                                                             
+check the possibilty of any more attribute we can add?                                                                                                             
+In addition, we will make a visual analysis in order to plan marketing banking campaigns more effectively.                                                         
 
 # Outline of the project
-Dataset
-Libraries import
-Data exploration
-Pivot tables
-Data visualization
-Conclusion
+Dataset                                                                                                                                                           
+Libraries import                                                                                                                                                   
+Data exploration                                                                                                                                                   
+Pivot tables                                                                                                                                                       
+Data visualization                                                                                                                                                 
+Conclusion                                                                                                                                                                          
 
 # Conclusion
-As examination is based on reading, writng and math ,all skills are higly correlated to each other.
-Students those are female able to score more than male students.
-Students those have good parental qualification are able to perform well in examination.It shows that they are having good environment for the studies.
-As food impact the health of the body, Students those eat standard food rather than free or reduced price food performs good.
-Though 'test prepation course' is quite helpful for student's performance in examination, Very less students are there those completed the Course.
+As examination is based on reading, writng and math ,all skills are higly correlated to each other.                                                               
+Students those are female able to score more than male students.                                                                                                   
+Students those have good parental qualification are able to perform well in examination.It shows that they are having good environment for the studies.           
+As food impact the health of the body, Students those eat standard food rather than free or reduced price food performs good.                                     
+Though 'test prepation course' is quite helpful for student's performance in examination, Very less students are there those completed the Course.                         
