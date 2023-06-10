@@ -5,10 +5,10 @@ Exploratory data analysis (EDA) is applied to investigate the data and summarize
 Performance of the student is the consider as the bench mark for the students acedemic career.Here,the purpose of this project is to master the exploratory data analysis (EDA) in 'Student Performance Prediciton' with Pandas framework.
 
 # Goals of the Project
-1.Explore the 'Student Performance Prediciton' dataset with pandas framework.
-2.Build the pivot tables.
-3.Visualize the dataset and plot various graphs.
-4.Make the conclusions of dataset.
+1.Explore the 'Student Performance Prediciton' dataset with pandas framework.                                                                                     
+2.Build the pivot tables.                                                                                                                                         
+3.Visualize the dataset and plot various graphs.                                                                                                                   
+4.Make the conclusions of dataset.                                                                                                                                 
 
 # objective
 In this project,'we will try to give answers to a set of questions that may be relevant when analyzing examination data:
